@@ -1,31 +1,21 @@
-This project aims to develop a comprehensive banking interface that facilitates seamless access to various banking services for customers, employees, and managers. The interface provides a centralized platform for managing accounts, conducting transactions, and overseeing banking operations.
+This project aims to create a comprehensive banking interface that ensures seamless access to various banking services for customers, employees, and managers. The interface offers a centralized platform for account management, transaction processing, and overseeing banking operations.
 
-📍 Features:
+📍 **Features**:
 
-View account summaries
+- View account summaries
+- Check account balances
+- Credit/debit funds
+- Review transaction histories
 
-Check account balances
+⚙️ **How to Use**:
 
-Credit/debit funds
+1. Visit the website.
+2. Login using your user ID and respective role (Manager/Employee/Customer).
+3. Explore the various features of the banking system.
+4. Make transactions, view account information, send queries.
 
-Review transaction histories
+🧑‍💻 **Technologies Used**:
 
-⚙️ How to Use:
-
-Visit the website.
-
-Login through used ID and respective role (Manager/Employee/Customer).
-
-Explore various features of banking system.
-
-Make Transactions, View account information, Send query.
-
-🧑‍💻 Technologies Used:
-
-Frontend: HTML, CSS.
-
-Backend: PHP
-
-Database: MySQL
-
-
+- **Frontend**: HTML, CSS
+- **Backend**: PHP
+- **Database**: MySQL
